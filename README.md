@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Tim 👋
 
-<!--
-**papagander/papagander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior Computer Science student passionate about AI, algorithms, and systems programming.  
+Currently working on Tower of Hanoi visualizations, chess engines, and backend tools.
 
-Here are some ideas to get you started:
+- 🎓 CS Student @ Augusta University 
+- 😎 Passionate about OCaml
+- 👍 Good with Python. Better with types.
+- 🔧 Begrudgingly proficient in C# and SQL
+- 🔭 Interested in AI, game theory, linear algebra
+- 📚 Always building, always learning---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Selected Projects
+
+- [Tower of Hanoi Solver](https://github.com/papagander/TowerOfHanoi)  
+  Interactive Tower of Hanoi game with manual play and animated automatic solving, built in Pygame.
+  
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et    dolore magna aliqua. 
+
+
+## 🎵 And now, a song.
+🎶 How many closures must a program spawn
+before it exhausts all the RAM? 🎶
+
+🎶 Yes and how many calls must be placed on the stack
+before the compiler says “Damn.” 🎶
+
+🎶 The answer, my friend, is blowin’ in the heap
+The answer is blowin’ in the heap. 🎶
