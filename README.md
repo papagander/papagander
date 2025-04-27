@@ -3,7 +3,7 @@
 I'm a senior Computer Science student passionate about AI, algorithms, and systems programming.  
 Currently working on Tower of Hanoi visualizations, chess engines, and backend tools.
 
-- 🎓 CS Student @ Augusta University 
+- 🎓 CS Student @ Augusta University School of Computer and Cyber Sciences
 - 😎 Passionate about OCaml. Recursion go brrrrrrr
 - 👍 Good with Python. Better with types.
 - 🔧 Begrudgingly proficient in C# and SQL
@@ -20,11 +20,12 @@ Currently working on Tower of Hanoi visualizations, chess engines, and backend t
 ---
 
 ## 🎵 And now, a song.
-🎶 How many closures must a program spawn  
-before it exhausts all the RAM? 🎶
 
-🎶 Yes and how many calls must be placed on the stack  
-before the compiler says “Damn.” 🎶
+*🎶 How many closures must a program spawn  
+before it exhausts all the RAM? 🎶*
 
-🎶 The answer, my friend, is blowin’ in the heap.  
-The answer is blowin’ in the heap. 🎶
+*🎶 Yes and how many calls must be placed on the stack  
+before the compiler says “Damn.” 🎶*
+
+*🎶 The answer, my friend, is blowin’ in the heap.  
+The answer is blowin’ in the heap. 🎶*
