@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Tim
 
 I'm a senior Computer Science student passionate about AI, algorithms, and systems programming.  
-Currently working on Tower of Hanoi visualizations, chess engines, and backend tools.
+Currently working on a reporting framework and a functional Chess Engine.
 
 - 🎓 CS Student @ Augusta University School of Computer and Cyber Sciences
 - 😎 Love OCaml. Recursion go brrrrrrr
 - 👍 Solid with Python. Better with types.
-- 🪄 SQL wizard. C# proficient.
-- 🔭 Interested in AI, language, and cool math
-- 🔧 Good tools -> happy me -> good tools -> happy me -> etc.
+- 🪄 Strong programming fundamentals developed in C# and SQL.
+- 🔭 Interested in AI, language, and cool math.
+- 🔧 Take care of your tools, and your tools will take care of you.
 
 ---
 
