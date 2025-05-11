@@ -5,7 +5,7 @@ Currently working on a reporting framework and a functional Chess Engine.
 
 - 🎓 CS Student @ Augusta University School of Computer and Cyber Sciences
 - 😎 Love OCaml. Recursion go brrrrrrr
-- 👍 Solid with Python
+- 👍 Proficient in Python
 - 🪄 Strong programming fundamentals developed in C# and SQL.
 - 🔭 Interested in AI, language, and cool math.
 - 🔧 Take care of your tools, and your tools will take care of you.
